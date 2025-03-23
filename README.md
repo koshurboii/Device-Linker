@@ -94,7 +94,8 @@ We retain your data only as long as necessary for the Platform’s functionality
 We engage trusted third-party providers strictly for backend services. They process your data only as required for the operation of the Platform, under strict security guidelines.
 
 ### 8. Data Breach Protocol  
-In the unlikely event of a data breach, we will promptly notify affected users and take remedial action as required by law.
+In the unlikely event of a data breach, we will promptly notify affected users and take remedial action as required . 
+
 
 ### 9. Your Rights  
 You have the right to:  
