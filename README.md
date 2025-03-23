@@ -27,7 +27,7 @@ Device Linker is a powerful platform built solely for managing your own personal
 
 ## Terms of Service    
 
-**Last Updated: [Insert Date]**    
+**Last Updated: [23-March-2025]**    
 
 By using Device Linker (the “Platform”), you agree to the following terms and conditions:
 
