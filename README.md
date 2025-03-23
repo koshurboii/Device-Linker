@@ -1,5 +1,5 @@
-# Device-Linker
-
+# Device Linker
+[![Device-Linker Thumbnail Image](https://drive.google.com/uc?export=download&id=1K5enBPtpPi7WkEWxbyUHTgS3ygVeCDV1)](https://t.me/devicelinker)
 Device Linker – A secure and efficient platform for managing your personal devices in real-time. Enjoy seamless synchronization, a unified control panel, and secure authentication with referral codes. This platform is designed exclusively for ethical, owner-controlled device management.
 
 ## Table of Contents
