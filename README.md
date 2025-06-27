@@ -2,8 +2,8 @@
 <img alt="Device Linker is a powerful tool that lets you remotely control, monitor, and manage any Android phone with ease. Whether you're trying to track an Android device, check phone activity, or access mobile data remotely, Device Linker gives you full control — all without needing to root the phone." src="https://iili.io/FASo22I.md.png" style="width:100%">
 
 - Device Linker is a powerful tool that lets you remotely control, monitor, and manage any Android phone with ease. Whether you're trying to track an Android device, check phone activity, or access mobile data remotely, Device Linker gives you full control — all without needing to root the phone.
-- Visit Website : <a href="https://webdevicelinker.vercel.app/">https://webdevicelinker.vercel.app/</a>
-
+- Visit Website : <a href="https://webdevicelinker.vercel.app/">https://webdevicelinker.vercel.app/</a><br>
+- **Start Using : <a href="https://t.me/DeviceLinker_bot"> https://t.me/DeviceLinker_bot </a>**
 ## Table of Contents
 
 - [Overview](#overview)    
@@ -122,7 +122,7 @@ For further details, please visit our website or contact our support team at con
 
 ---
 
-# Device Linker – Fraud Victim Support Policy
+# Fraud Victim Support Policy
 
 **Last Updated: [23-March-2025]**    
 
