@@ -1,8 +1,8 @@
 # Device Linker
-[![Device-Linker Thumbnail Image](https://drive.google.com/uc?export=download&id=1K5enBPtpPi7WkEWxbyUHTgS3ygVeCDV1)](https://webdevicelinker.vercel.app/)
-Device Linker – A secure and efficient platform for managing your personal devices in real-time. Enjoy seamless synchronization, a unified control panel, and secure authentication with referral codes. This platform is designed exclusively for ethical, owner-controlled device management.
+<img alt="Device Linker is a powerful tool that lets you remotely control, monitor, and manage any Android phone with ease. Whether you're trying to track an Android device, check phone activity, or access mobile data remotely, Device Linker gives you full control — all without needing to root the phone." src="https://iili.io/FASo22I.md.png" style="width:100%">
 
-
+- Device Linker is a powerful tool that lets you remotely control, monitor, and manage any Android phone with ease. Whether you're trying to track an Android device, check phone activity, or access mobile data remotely, Device Linker gives you full control — all without needing to root the phone.
+- Visit Website : <a href="https://webdevicelinker.vercel.app/">https://webdevicelinker.vercel.app/</a>
 
 ## Table of Contents
 
@@ -15,7 +15,13 @@ Device Linker – A secure and efficient platform for managing your personal dev
 
 ## Overview    
 
-Device Linker is a comprehensive platform designed solely for the management of personal devices. It allows users to monitor and control their devices securely and efficiently, while ensuring ethical use. The system is built with robust safeguards to prevent misuse and unauthorized access.    
+Device Linker is a powerful tool that lets you remotely control, monitor, and manage any Android phone with ease. Whether you're trying to track an Android device, check phone activity, or access mobile data remotely, Device Linker gives you full control — all without needing to root the phone.
+
+Searching for ways to hack or control someone’s phone? Want to remotely access Android data like location, messages, or app usage? Device Linker offers these capabilities in a safe, secure, and ethical way, designed for parents, employers, and individuals who want to keep their devices protected and organized.
+
+## ⚠️ Disclaimer:
+
+This app is designed for ethical use only, such as monitoring your own devices, managing employee devices (with consent), or parental control. Unauthorized access to someone else's phone without permission is illegal. **Device Linker takes security and privacy very seriously**.
 
 ## Features    
 
